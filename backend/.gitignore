@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env*.local
+
+# database
+*.sqlite
+
+# logs
+logs/
+*.log
+
+# secure storage
+secure-storage/
+
+# uploads
+uploads/
+
+# testing
+coverage/
+
+# misc
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
