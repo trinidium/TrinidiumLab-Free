@@ -8,3 +8,4 @@ for i in range(SL):
         c=i
 d=c+b+a
 print(d)
+fish=12
